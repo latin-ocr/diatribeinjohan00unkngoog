@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diatribeinjohan00unkngoog_0006.png"; bbox 0 0 2586 4718; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 528 1576 961 1687">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 528 1576 961 1687">
+     <span class='ocr_line' id='line_1_1' title="bbox 528 1576 961 1687; baseline -0.002 -16"><span class='ocrx_word' id='word_1_1' title='bbox 528 1576 827 1672; x_wconf 71' lang='lat' dir='ltr'>-DIATRIBE</span> <span class='ocrx_word' id='word_1_2' title='bbox 957 1679 961 1687; x_wconf 55' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 19 2085 1194 2217">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 19 2085 1250 2217">
+     <span class='ocr_line' id='line_1_2' title="bbox 19 2085 1194 2217; baseline 0.002 -32"><span class='ocrx_word' id='word_1_3' title='bbox 19 2132 24 2141; x_wconf 89' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 136 2189 148 2205; x_wconf 74' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 306 2085 1093 2208; x_wconf 65' lang='lat' dir='ltr'>JOHANNISWICLIFFL</span> <span class='ocrx_word' id='word_1_6' title='bbox 1192 2212 1194 2217; x_wconf 80' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 427 2353 968 2423">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 427 2353 968 2423">
+     <span class='ocr_line' id='line_1_3' title="bbox 427 2353 968 2423; baseline 0.007 -16"><span class='ocrx_word' id='word_1_7' title='bbox 427 2353 733 2410; x_wconf 78' lang='lat' dir='ltr'><strong>REFORMATIONIS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 752 2355 968 2423; x_wconf 76' lang='lat' dir='ltr'>PRODROMI,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 157 2512 1018 2663">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 157 2512 1018 2663">
+     <span class='ocr_line' id='line_1_4' title="bbox 157 2512 1018 2663; baseline 0.015 -40"><span class='ocrx_word' id='word_1_9' title='bbox 157 2512 161 2528; x_wconf 80' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_10' title='bbox 246 2565 252 2575; x_wconf 95' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 287 2617 289 2621; x_wconf 90' lang='lat'>.</span> <span class='ocrx_word' id='word_1_12' title='bbox 381 2561 1018 2663; x_wconf 67' lang='lat' dir='ltr'><strong>v1TAM,1NGssN11JM,scR1PTA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1298 4718">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1298 4718">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1298 4718; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1298 4718; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
